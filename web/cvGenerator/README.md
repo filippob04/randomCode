@@ -76,5 +76,4 @@ Per evitare che l'AI "inventi" competenze per compiacere il recruiter, il sistem
 
 ---
 
-**Autore:** [Filippo Baldini](https://www.google.com/search?q=https://github.com/filippob04)
-_Costruito per ottimizzare la ricerca del lavoro con un tocco di codice._
+**Anteprima:** [Filippo Baldini](https://github.com/filippob04/filippob04/blob/main/cv.pdf)
