@@ -1,0 +1,71 @@
+[
+  {
+    "Tipo": 1,
+    "Nome": "Porridge Avena e Mirtilli",
+    "Ingredienti": [
+      "50g di fiocchi d'avena",
+      "150ml di latte (vaccino o vegetale)",
+      "1 manciata di mirtilli freschi",
+      "1 cucchiaino di burro di arachidi"
+    ],
+    "Preparazione": "Cuoci l'avena con il latte in un pentolino a fuoco basso per 5 minuti, mescolando spesso. Trasferisci in una tazza e guarnisci con mirtilli e burro di arachidi."
+  },
+  {
+    "Tipo": 1,
+    "Nome": "Pancake Veloci alla Banana",
+    "Ingredienti": [
+      "1 banana matura",
+      "2 uova",
+      "30g di farina d'avena",
+      "Un pizzico di cannella"
+    ],
+    "Preparazione": "Schiaccia la banana con una forchetta, aggiungi le uova sbattute, la farina e la cannella. Cuoci il composto a cucchiaiate in una padella antiaderente ben calda, girando i pancake appena formano delle piccole bolle in superficie."
+  },
+  {
+    "Tipo": 2,
+    "Nome": "Insalata di Farro Pesto e Pomodorini",
+    "Ingredienti": [
+      "80g di farro",
+      "10 pomodorini pachino",
+      "2 cucchiai di pesto alla genovese",
+      "Scaglie di parmigiano",
+      "Olio extravergine d'oliva, sale"
+    ],
+    "Preparazione": "Lessa il farro in acqua salata, scolalo e lascialo raffreddare. Taglia i pomodorini in quattro e uniscili al farro in una ciotola capiente. Condisci con il pesto, un filo d'olio a crudo e completa con le scaglie di parmigiano."
+  },
+  {
+    "Tipo": 2,
+    "Nome": "Bocconcini di Pollo al Limone con Zucchine",
+    "Ingredienti": [
+      "150g di petto di pollo",
+      "2 zucchine medie",
+      "Succo di mezzo limone",
+      "Farina q.b.",
+      "Olio extravergine d'oliva, sale, pepe nero"
+    ],
+    "Preparazione": "Taglia il pollo a cubetti e infarinalo leggermente. Taglia le zucchine a rondelle. In una padella fai saltare il pollo con un filo d'olio e sfuma con il succo di limone. Aggiungi le zucchine, sala, pepa e cuoci con il coperchio a fiamma media per 10-15 minuti."
+  },
+  {
+    "Tipo": 2,
+    "Nome": "Omelette agli Spinaci e Feta",
+    "Ingredienti": [
+      "2 uova grandi",
+      "50g di spinaci freschi",
+      "30g di feta sbriciolata",
+      "1 fetta di pane integrale tostato",
+      "Olio extravergine d'oliva, sale"
+    ],
+    "Preparazione": "Sbatti le uova in un piatto con un pizzico di sale. Ungi una padella con un filo d'olio, versa le uova e cuoci a fiamma media. Quando la base si è rappresa, aggiungi gli spinaci crudi e la feta su una metà dell'omelette, poi chiudila a mezzaluna. Servi calda accompagnata dal pane tostato."
+  },
+  {
+    "Tipo": 2,
+    "Nome": "Trancio di Salmone con Patate Dolci e Broccoli",
+    "Ingredienti": [
+      "150g di filetto di salmone",
+      "1 patata dolce media",
+      "100g di cime di broccolo",
+      "Olio extravergine d'oliva, rosmarino, sale"
+    ],
+    "Preparazione": "Sbuccia e taglia la patata dolce a cubetti, sbollenta i broccoli per 3 minuti in acqua bollente. Disponi le verdure e il filetto di salmone su una teglia foderata con carta forno. Condisci con olio, sale e rosmarino. Cuoci in forno preriscaldato a 200°C per circa 15-20 minuti."
+  }
+]

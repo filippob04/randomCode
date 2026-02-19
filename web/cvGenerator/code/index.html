@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Curriculum Vitae PDF</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="cv-container">
+      <aside class="sidebar">
+        <div class="profile-box">
+          <span id="profile-initials">FB</span>
+        </div>
+
+        <div class="sidebar-section">
+          <h3>Contatti</h3>
+          <div id="contact-list" class="contact-list"></div>
+        </div>
+
+        <div class="sidebar-section">
+          <h3>Competenze</h3>
+          <ul id="hard-skills-list" class="skills-list"></ul>
+        </div>
+
+        <div class="sidebar-section">
+          <h3>Lingue</h3>
+          <div id="languages-list" class="contact-list"></div>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <header>
+          <h1 id="header-name" class="header-name">Filippo Baldini</h1>
+          <div id="header-role" class="header-role">Ruolo</div>
+          <p id="header-summary" class="header-summary">Lorem Ipsum</p>
+        </header>
+
+        <section>
+          <h2 class="section-title">Istruzione</h2>
+          <div id="education-container"></div>
+        </section>
+
+        <section>
+          <h2 class="section-title">Progetti</h2>
+          <div id="projects-container"></div>
+        </section>
+
+        <section>
+          <h2 class="section-title">Esperienza</h2>
+          <div id="experience-container"></div>
+        </section>
+      </main>
+    </div>
+    <div class="control-panel">
+        <h2>Generatore CV AI</h2>
+        <label for="password">API Key:</label>
+        <input type="password" id="apiKey" placeholder="apiKey" required>
+        
+        <label for="jobDescription">Annuncio Lavorativo:</label>
+        <textarea id="jobDescription" placeholder="Descrizione Annuncio..." required></textarea>
+        
+        <button id="submit">Genera CV</button>
+        <div id="status"></div>
+    </div>
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+  </body>
+</html>
