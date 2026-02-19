@@ -1,5 +1,7 @@
 # 🥗 Recipe Randomizer
 
+![Project Banner](assets/screenshot.png)
+
 Un'applicazione web minimalista e interattiva che genera istantaneamente proposte per un pasto bilanciato. Il sistema seleziona casualmente da un database JSON una ricetta per la colazione e due opzioni distinte per pranzo e cena (con distinte fonti proteiche), garantendo un'interfaccia utente pulita e reattiva.
 
 ## ✨ Funzionalità
