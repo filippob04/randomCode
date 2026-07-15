@@ -2,12 +2,15 @@
 document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("header-name").innerText =
     masterProfile.personal.name;
-  document.getElementById("profile-initials").innerText =
-    masterProfile.personal.initials;
   document.getElementById("header-role").innerText =
     masterProfile.personal.role;
   document.getElementById("header-summary").innerText =
     masterProfile.personal.baseSummary;
+
+  const imgPath = masterProfile.personal.photo;
+
+  document.getElementById("profile-photo").innerHTML =
+    `<img src="${imgPath}" alt="Foto di ${masterProfile.personal.name}">`;
 
   const contactList = document.getElementById("contact-list");
   let contactsHTML = "";

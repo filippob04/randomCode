@@ -3,7 +3,7 @@ const masterProfile = {
     name: "Nome Cognome",
     role: "Ruolo",
     baseSummary: "Lorem Ipsum",
-    initials: "NM",
+    photo: "../data/photo.jpeg",
     contacts: [
       { type: "email", value: "example.@email.com" },
       { type: "linkedin", value: "linkedin.com/in/nome-cognome" },
